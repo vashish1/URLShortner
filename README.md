@@ -1,2 +1,2 @@
 # web
-initial web programs
+Web based portal for a Quiz App using Golang.
