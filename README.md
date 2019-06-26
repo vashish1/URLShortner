@@ -1,2 +1,1 @@
-# web
-Web based portal for a Quiz App using Golang.
+# Web based portal for a Quiz App using Golang.
